@@ -1,4 +1,4 @@
-# pygame-game
+# Chinese Dog
 It's the thing
 
 ### Features
