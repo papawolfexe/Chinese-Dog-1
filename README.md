@@ -1,2 +1,7 @@
-# Chinese-Dog-1
-First iteration of Chinese Dog game
+# pygame-game
+It's the thing
+
+### Features
+* Bruh dog
+* Xi Jinping
+* Social Credit
